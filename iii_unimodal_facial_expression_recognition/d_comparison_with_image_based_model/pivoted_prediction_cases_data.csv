@@ -1,0 +1,15 @@
+Emotion,Perspective,both_correct,both_wrong,image_correct_fau_wrong,image_wrong_fau_correct
+Anger,Central,16.0,16.0,12.0,10.0
+Anger,Side,17.0,18.0,10.0,9.0
+Disgust,Central,29.0,7.0,14.0,4.0
+Disgust,Side,20.0,10.0,11.0,13.0
+Fear,Central,26.0,10.0,13.0,5.0
+Fear,Side,14.0,8.0,15.0,17.0
+Happiness,Central,45.0,0.0,1.0,8.0
+Happiness,Side,47.0,1.0,0.0,6.0
+Neutral,Central,32.0,3.0,6.0,13.0
+Neutral,Side,38.0,4.0,5.0,7.0
+Sadness,Central,22.0,7.0,11.0,14.0
+Sadness,Side,28.0,12.0,6.0,8.0
+Surprise,Central,42.0,1.0,6.0,5.0
+Surprise,Side,38.0,3.0,4.0,9.0
